@@ -349,9 +349,10 @@ h6 {
   outline: none;
 }
 
+/* Marcando link ativo no menu */
 .nav-menu li:hover > a,
 .nav-menu .menu-active > a {
-  color: #50d8af;
+  color: #0c2e8a;
 }
 
 .nav-menu > li {
@@ -379,7 +380,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-  color: #50d8af;
+  color: #434947;
 }
 
 .nav-menu ul ul {
@@ -520,7 +521,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 50px;
   height: 3px;
-  background: #50d8af;
+  background: #424645;
   bottom: 0;
   left: 0;
 }
